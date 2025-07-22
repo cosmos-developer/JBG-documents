@@ -13,3 +13,8 @@ There are three sources of life energy. These should be slowly cultivated over t
 2. Heart energy: keeps us from psychosis, leads to happiness
 3. Mind energy: keeps us from confusion, leads to clearness
 
+## The capability - the source of success
+Dreaming of success without the right capabilities is delusional. 
+
+## The community - the source of support
+One man is vulnerable to all kinds of risks and stress. Simply because there are too many capabilities, knowledge, network needed to win. Having support both in terms of emotions and capabilities lessens one man sufferings, and promotes group happiness.
