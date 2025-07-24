@@ -157,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -167,6 +168,9 @@
   },
   "active": "0f4a6eea14fc634b",
   "lastOpenFiles": [
+    "Assets/cultivation_trio.drawio.png",
+    "Assets/JSG_org_arch.drawio.png",
+    "Assets",
     "Untitled.md"
   ]
 }
