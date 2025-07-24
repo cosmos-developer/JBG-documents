@@ -8,7 +8,7 @@ The community cultivation trio:
 2. The capability (road): individuals should seek to cultivate their own capabilities
 3. The community (support): high-energy and capable individuals are the foundations of our community
 
-![](cultivation_trio.drawio.png)
+![](./Assets/cultivation_trio.drawio.png)
 
 If you find our community goal interesting, let's us know: nghuyenthevinh@gmail.com
 ## The life energy - the source of proactive
@@ -39,7 +39,7 @@ One man is vulnerable to all kinds of risks and stress. Having support emotional
 
 This organization structure is heavily influenced by the book: "Reinventing organizations".
 
-![](JSG_org_arch.drawio.png)
+![](./Assets/JSG_org_arch.drawio.png)
 
 1. **Support group**: support group serves the community members
 * Wise sage: who has great care for each members in the community and ensures the functioning of the support group
