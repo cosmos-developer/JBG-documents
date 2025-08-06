@@ -1,12 +1,12 @@
 In an unobstructed ideal environment with ideal person, growth is limitless
 
 But, what could be hinders to growth?
-1. Internal factors: the inner force that 
+1. Internal factors: the inner force that pushes our growth forward
 * Health (the body)
 * Life energy (the heart)
 * Framework of thinking (the mind) 
 
-2. External factors
+2. External factors: the outer force that restricts our growth back
 * Resources (money, assets, network, tools, ...)
 * Capability to leverage resources (skills, talents, experts, ...)
 * Environment that governs resources (community, policies, markets, ...)
@@ -17,7 +17,7 @@ Growth comes with (consume, manage, cultivate, ...) more resources. Stronger cap
 
 ![](../Assets/growth_environment.png)
 
-By overcoming these limits, we can achieve higher growth. 
+If our inner force is too weak, we can't break through external limits. By overcoming these limits, we can achieve higher growth.
 ## Analyzing from other thoughts on growth
 1. https://www.psychologytoday.com/us/blog/the-power-prime/201201/personal-growth-four-obstacles-positive-life-change
 	Growth is about letting go the current way of thinking, and adopting better way of thinking
