@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Growth observation"
             }
+          },
+          {
+            "id": "40c22ba922768f3c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +180,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "19ad94a734bb60ad",
+  "active": "40c22ba922768f3c",
   "lastOpenFiles": [
     "Assets/growth_chart.drawio.png",
     "Assets/growth_environment.png",
