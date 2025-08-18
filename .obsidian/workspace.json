@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Observation/Growth observation.md",
+                "file": "Observation/Fear-to-Change observation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Growth observation"
-            }
-          },
-          {
-            "id": "40c22ba922768f3c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.7"
+              "title": "Fear-to-Change observation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,13 +147,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "f26fcdc3ee775048",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,11 +177,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "40c22ba922768f3c",
+  "active": "6054a3eff36ed81f",
   "lastOpenFiles": [
+    "Observation/Growth observation.md",
+    "README.md",
+    "Observation/Fear-to-Change observation.md",
+    "Untitled",
     "Assets/growth_chart.drawio.png",
     "Assets/growth_environment.png",
-    "Observation/Growth observation.md",
     "Observation",
     "Decisions/JRC-1 - Funds for joy experience and toolings.md",
     "Directions/Direction 1 - capability building.md",
@@ -202,7 +202,6 @@
     "copilot-custom-prompts/Summarize.md",
     "copilot-custom-prompts/Translate to Chinese.md",
     "copilot-custom-prompts",
-    "README.md",
     "Directions",
     "Decisions",
     "Assets/cultivation_trio.drawio.png",
