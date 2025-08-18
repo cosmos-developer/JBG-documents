@@ -1,0 +1,3 @@
+The community should start with training strong observation skills. Observation can lead to insights in ourselves, in market, in opportunities, ...
+
+TODO: need more detailed plans here!
