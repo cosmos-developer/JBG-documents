@@ -4,6 +4,8 @@ Working more on a 10-step job may yield more results, but it is limited by 24 ho
   
 Change is hardest in emotions, as it invokes the deepest fears. Fear of losing what we have, fear of shame, fear of going against what is perceived as normal. If one never dares to touch their fear barriers, how can one change? But, fear is also conditioned to scare people away from the barriers, crippling ability to discover better mindsets. This conflicting nature of Fear-to-Change keeps people in the loop, never realize what is beyond their loop.
 
+[A picture to describe Fear-to-Change mechanism should be here but I haven't observed deep enough to see it clearly yet]()
+
 Only at critical energy-deplete moments (depressed), the body activates change mechanism to survive. This seems to be the natural way of breaking the fear loop. By actively pushing to the limits instead of waiting, we can achieve much quicker change. Limit breaker!
 
 The brain-dead way of jumping into shit holes to force our body to change can lead to life-scarring trauma, as I have experienced many times. Can we attempt to poke the limits with plans and better community support? Less trauma, more changes. Buddhism is successful in this with practitioners reaching Enlightenment.
