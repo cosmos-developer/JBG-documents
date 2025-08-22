@@ -1,1 +1,5 @@
 .obsidian
+
+# Copilot plugin sensitive data
+.obsidian/plugins/copilot/data.json
+.obsidian/copilot-index-*.json
