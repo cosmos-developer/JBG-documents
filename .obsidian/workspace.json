@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Fear-to-Change observation"
             }
+          },
+          {
+            "id": "89c3009e77847452",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,6 +181,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -178,7 +192,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6054a3eff36ed81f",
+  "active": "89c3009e77847452",
   "lastOpenFiles": [
     "Directions/Direction 1 - Observation training.md",
     "Decisions/JRC-1 - Funds for joy experience and toolings.md",
