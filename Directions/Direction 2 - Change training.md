@@ -1,3 +1,3 @@
-Inspired từ [Fear-to-Change observation](./Observation/Fear-to-Change observation.md)
+The ability to change is the most fundamental issue hindering a person's transformation. No matter how much the teacher teaches, if the student doesn't have the ability to change, they cannot evolve, and it even creates more conflict.
 
-Cần phải 
+TODO: I should practice the plan laid out in [Fear-to-Change observation](./Observation/Fear-to-Change observation.md) for a month to see how it goes. Then, comes back here to update this.
