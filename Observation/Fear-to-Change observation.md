@@ -15,7 +15,7 @@ The guidelines are:
 2. The Eightfold Noble Paths
 3. The Twelve Links of Interdependence
 
-## Update 22-08-2025
+## Update 22-08-2025: a plan towards change
 Change is scary if we don't know where it will lead us to. Changes either lead to failure, or to success. Changes can either be downward, or upward. Some failed miserably, some succeeded wildly. Changes cost a lot of energy, removing old neuron pathways and constructing new neuron pathways. It is scary! directions? forces?
 
 1. Am I emotionally ready to change?
@@ -27,4 +27,17 @@ Brother Cuong taught that if we are uncertain of the change directions, we will 
 1. Change in loop: the change leads to nowhere in the end. We change drinking beers to drinking wines. It is change, but same results anyway. We change from one job to self-employed. It is change, but same time-money conversion anyway.
 2. Change upward: the change that leads to better outcome in the end. We change drinking beers to eating simple. It is change that leads to better health. We change from one job to entrepreneur. It is change, time-money relationship becomes market-money relationship, constrained not by time but by the size of market.
 
-The need for clarity propels me forward, to steer clear of mists.
+The need for clarity propels me forward, to steer clear of mists. I must have clarity! I must observe!
+
+BCG devises a brilliant change strategy that I want to try out.
+#### Change Delta: assess the change direction
+1. **Where are we now?** This defines a insightful observation, clear understanding of the current state problems. How it can lead to problems if continue this way?
+2. **Where are we going?** This defines a clear vision for the future state. What does success look like?
+3. **What is the gap?** This identifies the specific emotional, mental, capability gaps between the present and the desired future.
+#### DICE Framework: assess the force needed
+1. **D - Duration:** The total timespan of the change. **Shorter durations are better.** Long durations are more likely to suffer from waning momentum.
+2. **I - Integrity:** The performance integrity of the person. This would require constant tracking.
+3. **C - Commitment:** The commitment to the plan both emotionally, and mentally.
+4. **E - Effort:** The amount of work the change requires. If requiring too much effort per day, resistance and burnout can skyrocket.
+
+Once the plan is finalized! A kick-off event is required to start executing the plan!
