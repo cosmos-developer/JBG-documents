@@ -14,3 +14,17 @@ The guidelines are:
 1. The Four Noble Truths
 2. The Eightfold Noble Paths
 3. The Twelve Links of Interdependence
+
+## Update 22-08-2025
+Change is scary if we don't know where it will lead us to. Changes either lead to failure, or to success. Changes can either be downward, or upward. Some failed miserably, some succeeded wildly. Changes cost a lot of energy, removing old neuron pathways and constructing new neuron pathways. It is scary! directions? forces?
+
+1. Am I emotionally ready to change?
+2. Am I mentally ready to change?
+
+If I am not preparing emotional and mental energy for changes, changes likely fail miserably because I cannot commit fully to the changes.
+
+Brother Cuong taught that if we are uncertain of the change directions, we will fear. So, let's break it down ruthlessly:
+1. Change in loop: the change leads to nowhere in the end. We change drinking beers to drinking wines. It is change, but same results anyway. We change from one job to self-employed. It is change, but same time-money conversion anyway.
+2. Change upward: the change that leads to better outcome in the end. We change drinking beers to eating simple. It is change that leads to better health. We change from one job to entrepreneur. It is change, time-money relationship becomes market-money relationship, constrained not by time but by the size of market.
+
+The need for clarity propels me forward, to steer clear of mists.
