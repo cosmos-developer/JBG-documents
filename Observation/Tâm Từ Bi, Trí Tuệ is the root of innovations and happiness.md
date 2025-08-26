@@ -1,6 +1,7 @@
 **Warning: this observation remains a work in progress, should only be read as references. The directions outlined are promising though**
 
 "What is the root of innovations?"
+
 "What is the root of happiness?"
 
 The root problem that have bugged me for 10 years, and became concrete since the beginning of 2025 when my mind was exposed to the enlightened mind of Great Masters. Brother Cuong told that the goal of Buddhism is to "end sufferings, cultivate joy", and the goal of Buddhist is to evolve infinitely "Tâm Từ Bi", "Trí Tuệ". I didn't understand them at first and how they can help answer the two questions above, Brother Cuong told me to observe more deeply.
