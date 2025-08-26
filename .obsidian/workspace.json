@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Directions/Direction 2 - Change training.md",
+                "file": "Observation/Tâm Từ Bi, Trí Tuệ is the root of innovations and happiness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Direction 2 - Change training"
-            }
-          },
-          {
-            "id": "23fcded99b801bf3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.11"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.11"
+              "title": "Tâm Từ Bi, Trí Tuệ is the root of innovations and happiness"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,12 +178,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "23fcded99b801bf3",
+  "active": "6054a3eff36ed81f",
   "lastOpenFiles": [
-    "Directions/Direction 1 - Observation training.md",
-    "Directions/Direction 2 - Change training.md",
     "Observation/Fear-to-Change observation.md",
     "Observation/Growth observation.md",
+    "Observation/Tâm Từ Bi, Trí Tuệ is the root of innovations and happiness.md",
+    "Directions/Direction 2 - Change training.md",
+    "Directions/Direction 1 - Observation training.md",
     "README.md",
     "Decisions/JRC-1 - Funds for joy experience and toolings.md",
     "Untitled",
