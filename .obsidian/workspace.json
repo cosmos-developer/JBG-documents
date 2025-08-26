@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Direction 2 - Change training"
             }
+          },
+          {
+            "id": "23fcded99b801bf3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.11"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.11"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6054a3eff36ed81f",
+  "active": "23fcded99b801bf3",
   "lastOpenFiles": [
     "Directions/Direction 1 - Observation training.md",
     "Directions/Direction 2 - Change training.md",
