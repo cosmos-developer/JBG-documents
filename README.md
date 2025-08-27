@@ -1,4 +1,9 @@
-# JBG - Joy Builder Group
+**Buddhism is the vehicle towards infinite innovations**
+
+The Buddha foresaw a path towards end of sufferings, known as The Four Noble Truths. He pointed out The Eightfold Noble Paths as the practice to see the universal root of truths. In simple terms, it shows how we can evolve pass body, heart and mind limits to reach the universal truths. A century of technological innovations has pushed the boundary of human limits beyond our ability to comprehend, resulting in crippling fear. To push innovations even further beyond human limits without fear, Buddhism seems to be the only way.
+
+This group is dedicated to the research and application of Buddhism into innovations and startups.
+## JBG - Joy Builder Group
 What does it mean to be a builder? A builder is to bring joyful products to the world. Our world becomes a little better thanks to that. This group of builders believes in bringing joyful products to the world!
 
 A builder is first a person. A person goal in life is to be happy, why put conditions on it when you can be happy now. A happy person first, then a builder who can bring happy products to the world. 
