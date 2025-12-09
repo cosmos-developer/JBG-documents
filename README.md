@@ -1,7 +1,7 @@
 **Đạo Phật là con đường dẫn tới tiến hoá**
 
 ## Hội Sáng Tạo
-Sáng Tạo là như thế nào? Tạo ra một giá trị Sáng có lợi cho cộng đồng. 
+Sáng Tạo là như thế nào? Tạo ra giá trị Sáng có lợi cho cộng đồng.
 
 Giá trị được Tạo phải Sáng, không được Tối. Để như vậy, Người Sáng Tạo phải có sự Hiểu Sâu sắc, coi đó làm điểm tựa để Khởi Nghiệp. Cách thức rèn luyện là Đạo Phật.
 
